@@ -13,7 +13,9 @@ Its Free For Intelligence Agencies And State Police (Only Indian) Cuz "Dil Hai H
 To Trace Scammers And Anti National Elements 
 ### Created By: Indian Cyber Troops 
 Resource Management:R007 B45U 
+
 Api And Database   :Verma ji
+
 Tool Developement  :Krishanu Sharma
 <p>
  <a href="https://www.youtube.com/c/indiancybertroops">
