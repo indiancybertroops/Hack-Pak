@@ -6,7 +6,8 @@ If you Liked Tool Then just Star Repo And Contribute If You Can Thanks
 Just Execute And Enter Correct Option 
 root permission is required to install essential packages 
 
-# Notice: It Requires Key And Url Input In Script Contact Us For Both (Paid Only) Its Not Free $500 Without Guarantee /One Time Support
+# Notice: It Requires Key And Url Input In Script Contact Us For Both (Paid Only) Its Not Free $500 Without Guarantee /One Time Support 
+## Key Will Be Shared With Authorized Person Only Not For Common Use 
 Its Free For Intelligence Agencies And State Police (Only Indian) Cuz "Dil Hai Hindustani # Jai Hind"
 ## purpose
 To Trace Scammers And Anti National Elements 
